@@ -62,13 +62,14 @@ You will also need an API key for the Translator service from Azure.
 4. **Set up environment variables**:
    Create a `.env` file in the project directory with the following:
    ```
-   TRANSLATOR_API_KEY=your-azure-translator-api-key
-   TRANSLATOR_ENDPOINT=https://api.cognitive.microsofttranslator.com/
+   KEY=your_key
+   ENDPOINT=your_endpoint
+   LOCATION=your_location
    ```
 
 5. **Run the Flask app**:
    ```bash
-   flask run
+   python -m flask run
    ```
    The app will be available at `http://127.0.0.1:5000/`.
 
