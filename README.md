@@ -35,7 +35,6 @@ Before you begin, ensure you have the following installed:
 - Python 3.8+
 - Azure Subscription (for Translator API)
 - Flask
-- Azure Cognitive Services SDK
 
 You will also need an API key for the Translator service from Azure.
 
