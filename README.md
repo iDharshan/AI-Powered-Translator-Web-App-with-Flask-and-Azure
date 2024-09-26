@@ -90,7 +90,6 @@ You will also need an API key for the Translator service from Azure.
 ├── templates            # Contains HTML files
 │   ├── index.html       # Main page for input
 │   └── results.html     # Displays the translated results
-├── static               # (Optional) For CSS/JS if used
 ├── .env                 # Environment variables file
 ├── requirements.txt     # Dependencies
 └── README.md            # Project README
