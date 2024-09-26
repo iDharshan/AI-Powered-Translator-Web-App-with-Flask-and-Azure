@@ -1,4 +1,4 @@
-# AI Translator Web App
+# AI-Powered Translator Web App with Flask and Azure
 
 **Short Description**:  
 This AI Translator Web App is a real-time language translation tool built using Python, Flask, and Azure Cognitive Services' Translator API. The app enables users to translate text between multiple languages instantly, making communication across different languages easier and more accessible.
